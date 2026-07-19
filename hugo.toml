@@ -11,6 +11,10 @@ disableScrollToTop = true
 showFullTextinRSS = true
 showRssButtonInSectionTermList = true
 
+[services]
+  [services.googleAnalytics]
+    id = "G-NK7HS0Y4J2"
+
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
