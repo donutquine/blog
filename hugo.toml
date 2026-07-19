@@ -8,3 +8,4 @@ disableHugoGeneratorInject = true
 [params]
 hideFooter = true
 disableScrollToTop = true
+showFullTextinRSS = true
