@@ -10,6 +10,7 @@ hideFooter = true
 disableScrollToTop = true
 showFullTextinRSS = true
 showRssButtonInSectionTermList = true
+enableRobotsTXT = true
 
 [services]
   [services.googleAnalytics]
