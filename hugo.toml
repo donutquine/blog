@@ -9,6 +9,7 @@ disableHugoGeneratorInject = true
 hideFooter = true
 disableScrollToTop = true
 showFullTextinRSS = true
+showRssButtonInSectionTermList = true
 
 [caches]
   [caches.images]
