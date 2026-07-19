@@ -9,3 +9,7 @@ disableHugoGeneratorInject = true
 hideFooter = true
 disableScrollToTop = true
 showFullTextinRSS = true
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
