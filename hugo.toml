@@ -2,3 +2,9 @@ baseURL = 'https://donutquine.blog/'
 locale = 'ru-ru'
 title = 'donutquine’s blog'
 theme = 'papermod'
+
+disableHugoGeneratorInject = true
+
+[params]
+hideFooter = true
+disableScrollToTop = true
